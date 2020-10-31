@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=TheDucky&show_icons=true&theme=synthwave)]()
+[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=OpenDucks&show_icons=true&theme=synthwave)]()
 
 I love PHP
 
