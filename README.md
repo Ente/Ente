@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=Ente&show_icons=true)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=Ente&show_icons=true)]()
 
 I love PHP
 
