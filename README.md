@@ -2,8 +2,8 @@
 
 I love PHP.
 My name's Bryan!
-Currently working at a Twitch Moderation Simulator "SnitchTV" and a Maintenance Website.
-Feel free to contact me at bryan@openducks.org
+Currently working on a worktime tracking software TimeTrack and various other projects, I don't bother to mention.
+Feel free to contact me at bryan@openducks.org / Discord: ente__
 
 ## Github most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ente&layout=compact)]()
