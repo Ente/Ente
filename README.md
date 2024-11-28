@@ -3,7 +3,7 @@
 I love PHP.
 My name's Bryan!
 Currently working on a worktime tracking software TimeTrack and various other projects, I don't bother to mention.
-Feel free to contact me at bryan@openducks.org / Discord: ente__
+Feel free to contact me at bryan@openducks.org or open an Issue in the repository.
 <br><a href=""><img src="https://visitcount.itsvg.in/api?id=ente&label=Profile%20Views&color=1&icon=1&pretty=true"></a>
 
 ## Github most used languages
